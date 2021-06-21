@@ -8,3 +8,25 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+
+Hi I'm *Shreeram Patkar*, a first-year Medical Science student at the University of Western Ontario with an interest in healthcare, computer science and robotics.
+
+## About the project
+### *Covid-19 TrackR and socio-economic causal analysis*
+
+This project aims to graphically display the progression of Covid-19 over the past year by country and to to analyse the impacts of various socio-economic metrics and factors on the virus's spread.
+
+### Goals
+ - To demonstrate correlations while:
+    - Effectively demonstrating data in an easy-to-read format.
+    - Retaining data accuracy and credibility.
+    
+    
+    
+"This is data science"  
+~Preceptor
+
+
+["Kane's Free High School Data Science Bootcamp"](https://bootcamp.davidkane.info/)
+
